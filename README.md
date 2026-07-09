@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 ## Array
 |  |
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
