@@ -145,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+| [0620-not-boring-movies](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
