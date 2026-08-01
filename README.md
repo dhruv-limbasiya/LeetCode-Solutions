@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
