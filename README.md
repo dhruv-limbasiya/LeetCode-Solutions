@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1084-sales-analysis-iii](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1084-sales-analysis-iii) |
+| [1179-reformat-department-table](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1341-movie-rating) |
