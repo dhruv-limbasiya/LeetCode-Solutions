@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1341-movie-rating) |
+| [3436-find-valid-emails](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/3436-find-valid-emails) |
 ## Sliding Window
 |  |
 | ------- |
