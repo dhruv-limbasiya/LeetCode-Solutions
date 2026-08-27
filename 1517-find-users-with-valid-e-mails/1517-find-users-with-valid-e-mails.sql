@@ -1,7 +1,4 @@
-SELECT 
-    user_id, 
-    name, 
-    mail
+SELECT *
 FROM 
     users
 WHERE 
