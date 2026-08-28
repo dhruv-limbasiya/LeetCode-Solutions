@@ -2,12 +2,13 @@ class Solution:
     def absDifference(self, nums: List[int], k: int) -> int:
         nums.sort()
 
-        a = 0
-        b = 0
-        for i in range(k):
-            a+=nums[i]
+        first_two = 0
+        last_two = 0
 
-        for i in range(len(nums)-k, len(nums)):
-            b+=nums[i]    
-            
-        return abs(a-b)
+        for i in range(k):
+            first_two += nums[i]
+
+        for j in range(len(nums)-k, len(nums)):
+            last_two += nums[j]
+
+        return abs(first_two - last_two)        
