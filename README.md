@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1002-find-common-characters) |
 | [1051-height-checker](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
