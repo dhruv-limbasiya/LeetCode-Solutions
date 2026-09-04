@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1341-movie-rating) |
 | [1407-top-travellers](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1407-top-travellers) |
 | [1517-find-users-with-valid-e-mails](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
+| [1729-find-followers-count](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1729-find-followers-count) |
 | [3220-odd-and-even-transactions](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/3220-odd-and-even-transactions) |
 | [3436-find-valid-emails](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/3436-find-valid-emails) |
 ## Sliding Window
