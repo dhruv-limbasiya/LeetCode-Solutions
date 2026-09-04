@@ -6,4 +6,4 @@ class Solution:
             if i not in s:
                 return False
         else:
-            return True        
+            return True
