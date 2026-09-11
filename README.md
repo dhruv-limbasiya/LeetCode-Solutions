@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1587-bank-account-summary-ii) |
+| [1661-average-time-of-process-per-machine](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1729-find-followers-count) |
 | [1795-rearrange-products-table](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1890-the-latest-login-in-2020) |
