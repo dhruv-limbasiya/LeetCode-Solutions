@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
 | [1002-find-common-characters](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1002-find-common-characters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0888-fair-candy-swap](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0888-fair-candy-swap) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
