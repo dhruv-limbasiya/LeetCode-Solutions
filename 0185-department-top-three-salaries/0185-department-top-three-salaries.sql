@@ -1,19 +1,12 @@
-WITH new_table AS (
-    SELECT
-        d.name AS Department,
-        e.name AS Employee,
-        e.salary AS Salary,
-        DENSE_RANK() OVER (
-            PARTITION BY d.name
-            ORDER BY e.salary DESC
-        ) AS Ranking
-    FROM Employee e
-    LEFT JOIN Department d
-        ON e.departmentId = d.id
+select 
+    d.name as Department,
+    e1.name as Employee,
+    e1.salary as Salary
+from employee e1 join department d 
+on e1.departmentid = d.id
+where 3 > (
+    select count(distinct e2.salary)
+    from employee e2
+    where e2.salary > e1.salary and 
+    e1.departmentid = e2.departmentid
 )
-SELECT
-    Department,
-    Employee,
-    Salary
-FROM new_table
-WHERE Ranking <= 3;
