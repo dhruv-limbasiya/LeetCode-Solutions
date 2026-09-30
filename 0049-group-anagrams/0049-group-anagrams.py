@@ -1,9 +1,13 @@
 class Solution:
-    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        ans = defaultdict(list)
+    def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        ans = {}
 
         for i in strs:
-            key = ''.join(sorted(i))
-            ans[key].append(i)
+            k = "".join(sorted(i))
 
-        return list(ans.values())    
+            if k not in ans:
+                ans[k] = []
+
+            ans[k].append(i)
+
+        return list(ans.values())        
