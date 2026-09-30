@@ -3,15 +3,14 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        ss = defaultdict(int)
-        tt = defaultdict(int)
+        f1 = defaultdict(int)
 
         for i in s:
-            ss[i]+=1
+            f1[i] += 1
+
+        f2 = defaultdict(int)
 
         for i in t:
-            tt[i]+=1
+            f2[i] += 1
 
-        return ss == tt    
-
-
+        return f1 == f2    
