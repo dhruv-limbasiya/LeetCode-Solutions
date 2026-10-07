@@ -1,3 +1,10 @@
-select max(e1.salary) as SecondHighestSalary 
-from employee e1 join employee e2
-on e1.salary < e2.salary;
+WITH salary_cte AS (
+    SELECT DISTINCT salary
+    FROM Employee
+)
+SELECT MAX(salary) AS SecondHighestSalary
+FROM salary_cte
+WHERE salary < (
+    SELECT MAX(salary)
+    FROM salary_cte
+);
