@@ -1,5 +1,5 @@
 import pandas as pd
 
 def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:
-    c = customers.drop_duplicates(subset = ["email"])
-    return c
+    ans = customers.drop_duplicates(subset = ['email'])
+    return ans
