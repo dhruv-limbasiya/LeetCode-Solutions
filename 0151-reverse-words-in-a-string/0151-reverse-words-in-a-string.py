@@ -1,9 +1,9 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         temp = s.split()
-        s2 = ""
+        ans = ""
 
-        for i in range(len(temp) - 1, -1, -1):
-            s2 += temp[i] + " "
+        for i in range(len(temp)-1, -1, -1):
+            ans += temp[i] + " "
 
-        return s2.strip()
+        return ans.strip()
