@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhruv-limbasiya/dhruv-limbasiya-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
