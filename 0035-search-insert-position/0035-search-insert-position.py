@@ -3,11 +3,8 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] == target:
                 return i
-
-        for i in range(len(nums)):
-            if nums[i] > target:
+            elif nums[i] > target:
                 return i
 
-        for i in range(len(nums) - 1, -1, -1):
-            if nums[i] < target:
-                return i + 1        
+        return len(nums)     
+                        
