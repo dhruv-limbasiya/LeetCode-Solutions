@@ -1,5 +1,5 @@
-select today.id 
-from weather yesterday
-join weather today
-on  DATEDIFF(today.recordDate, yesterday.recordDate) = 1
-where today.temperature > yesterday.temperature;        
+select 
+    w.id as Id
+from weather w 
+join weather w2
+where datediff(w.recorddate, w2.recorddate) = 1 and w.temperature  > w2.temperature;
