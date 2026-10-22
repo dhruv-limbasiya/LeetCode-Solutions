@@ -1,1 +1,7 @@
-select * from cinema where id%2 != 0 and description != "boring" order by rating DESC;
+select *
+from cinema
+where 
+    (case 
+        when id % 2 = 1 then id 
+    end) and description != "boring"
+order by rating DESC;
