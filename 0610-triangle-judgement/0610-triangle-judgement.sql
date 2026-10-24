@@ -1,7 +1,7 @@
 select x,y,z,
-    if( 
+    if(
         x + y > z and
         y + z > x and
-        x + z > y
+        z + x > y
     , "Yes", "No") as triangle
-from triangle    
+from triangle;
