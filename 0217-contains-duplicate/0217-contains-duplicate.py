@@ -5,6 +5,6 @@ class Solution:
         for i in nums:
             if i in seen:
                 return True
-            seen[i] = 1    
-
-        return False                
+            seen[i] = 1
+            
+        return False
