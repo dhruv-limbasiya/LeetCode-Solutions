@@ -1,10 +1,3 @@
-with first_max_salary as(
-    select max(salary) as f_max_s
-    from employee
-)
-
-select max(salary) as SecondHighestSalary 
-from employee
-where salary < (
-    select * from first_max_salary
-)
+select max(e1.salary) as SecondHighestSalary 
+from employee e1 join employee e2
+on e1.salary < e2.salary;
