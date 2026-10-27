@@ -1,10 +1,10 @@
-WITH salary_cte AS (
-    SELECT DISTINCT salary
-    FROM Employee
+with first_max_salary as(
+    select max(salary) as f_max_s
+    from employee
 )
-SELECT MAX(salary) AS SecondHighestSalary
-FROM salary_cte
-WHERE salary < (
-    SELECT MAX(salary)
-    FROM salary_cte
-);
+
+select max(salary) as SecondHighestSalary 
+from employee
+where salary < (
+    select * from first_max_salary
+)
