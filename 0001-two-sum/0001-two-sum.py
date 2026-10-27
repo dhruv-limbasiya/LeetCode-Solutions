@@ -7,7 +7,7 @@ class Solution:
 
             if want in d:
                 return [d[want], i]
-
-            d[nums[i]] = i    
-
-        return ans        
+            
+            d[nums[i]] = i
+        
+        return [] 
