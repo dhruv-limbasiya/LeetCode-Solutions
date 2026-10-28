@@ -10,4 +10,4 @@ class Solution:
             
             d[nums[i]] = i
         
-        return [] 
+        return []
