@@ -4,30 +4,36 @@ class Solution:
         ans = []
         n = len(nums)
 
-        for i in range(n):
-            if i > 0 and nums[i] == nums[i-1]:
+        for i in range(n - 3):
+            if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
-            for j in range(i+1, n):
-                if j > i+1 and nums[j] == nums[j-1]:
+            for j in range(i + 1, n - 2):
+                if j > i + 1 and nums[j] == nums[j - 1]:
                     continue
-                
-                p = j+1
-                q = n-1
 
-                while p < q:
-                    s = nums[i] + nums[j] + nums[p] + nums[q]
+                left = j + 1
+                right = n - 1
 
-                    if s < target:
-                        p +=1 
-                    elif s > target:
-                        q -= 1
+                while left < right:
+                    total = nums[i] + nums[j] + nums[left] + nums[right]
+
+                    if total == target:
+                        ans.append([
+                            nums[i], nums[j], nums[left], nums[right]
+                        ])
+                        left += 1
+                        right -= 1
+
+                        while left < right and nums[left] == nums[left - 1]:
+                            left += 1
+
+                        while left < right and nums[right] == nums[right + 1]:
+                            right -= 1
+
+                    elif total < target:
+                        left += 1
                     else:
-                        ans.append([nums[i], nums[j], nums[p], nums[q]])
-                        p += 1
-                        q -= 1
+                        right -= 1
 
-                        while p < q and nums[p] == nums[p-1]:
-                            p+=1
-   
-        return ans                
+        return ans
