@@ -1,11 +1,10 @@
-select
-    id,
+select 
+    requester_id as id,
     count(*) as num
-from (
-    select requester_id as id from requestaccepted
+from (select requester_id  from RequestAccepted 
     UNION ALL
-    select accepter_id from requestaccepted
-) as friend_count
-group by id
+    select accepter_id from RequestAccepted 
+    ) as frd_count
+group by requester_id
 order by num DESC
 limit 1;
