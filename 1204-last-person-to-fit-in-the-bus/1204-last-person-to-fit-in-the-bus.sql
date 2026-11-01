@@ -1,9 +1,14 @@
+with turn_wise_weight as (
+    select 
+        person_name,
+        turn,
+        sum(weight) over (order by turn) as total_weight
+        from queue
+)
+
 select 
-    q1.person_name
-from queue q1
-join queue q2
-on q1.turn >= q2.turn
-group by q1.turn
-having sum(q2.weight) <= 1000
-order by sum(q2.weight) DESC
+    person_name
+from turn_wise_weight 
+where total_weight <= 1000
+order by turn DESC 
 limit 1;
