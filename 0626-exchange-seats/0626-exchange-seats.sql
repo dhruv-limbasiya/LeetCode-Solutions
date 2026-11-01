@@ -1,9 +1,11 @@
-select 
-    case
-        when id = (select max(id) from seat) and mod(id,2) = 1 then id
+select  
+    case 
+        when id = (select max(id) from seat) and mod(id, 2) = 1 then id
         when mod(id, 2) = 1 then id + 1
-    else 
+    else
         id - 1
-    end as id, student
-from seat 
-order by id ASC; 
+    end as id,
+    student
+from seat
+group by id
+order by id;
