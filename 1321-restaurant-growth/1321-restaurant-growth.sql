@@ -1,4 +1,4 @@
-select
+select distinct
     visited_on,
 
     (select sum(amount)
@@ -13,5 +13,4 @@ select
     ) as average_amount
 
 from customer c
-where visited_on >= (select date_add(min(visited_on), interval 6 day)from customer)
-group by visited_on;
+where visited_on >= (select date_add(min(visited_on), interval 6 day)from customer);
